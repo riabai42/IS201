@@ -1,0 +1,42 @@
+.common{
+    /* background-color: #cccccc; */
+    border: 2px solid white;
+    position: absolute;
+}
+
+.header{
+    top: 5px;
+    left: 5px;
+    right: 5px;
+    height: 100px;
+    z-index: 2;
+    border-bottom: solid 2px white;
+}
+
+.leftmenu{
+    top: 114px;
+    left: 5px;
+    width: 100px;
+    bottom: 30px;
+    z-index: 1;
+    padding-top: 10px;
+    border-right: solid 2px white;
+}
+
+.mainbody{
+    top: 114px;
+    left: 114px;
+    right: 120px;
+    bottom: 30px;
+    padding-right: 5px;
+}
+
+
+.subheader{
+    float: right;
+}
+
+.rightbody{
+    float: right;
+}
+
